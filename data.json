@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "HONDA",
+        "precio": 10000,
+        "img": "https://www.energiaglobal.com.ar/wp-content/uploads/EZ3000.png",
+        "cantidad": 1
+    },
+
+    {
+        "id": 2,
+        "nombre": "HYUNDAI",
+        "precio": 15000,
+        "img": "https://casadivi.com.ar/wp-content/uploads/2018/01/Grupo-Electrogeno-Generador-Hyundai-6800-Watts-66-Kva-13-Hp.jpg",
+        "cantidad": 1
+    },
+
+    {
+        "id": 3,
+        "nombre": "KIPOR",
+        "precio": 50000,
+        "img": "https://gomezroco.com.ar/wp-content/uploads/2021/10/kde30ss3.jpg.webp",
+        "cantidad": 1
+    },
+
+    {
+        "id": 4,
+        "nombre": "DOOSAN",
+        "precio": 75000,
+        "img": "https://www.lectura-specs.es/models/renamed/orig/grupos-selectrogenos-refrigerados-por-agua-1500-g24-xfxw-doosan.jpg",
+        "cantidad": 1
+    }
+
+]
